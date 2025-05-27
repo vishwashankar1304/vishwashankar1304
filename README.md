@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
 <h3 align="center">A Passionate Full Stack Developer | DSA Learner </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+awesome+projects+💻;Always+ready+to+collaborate+🤝;Let's+build+something+great+💡&center=true&width=500&height=40" alt="Typing SVG" />
-</p>
+
 
 ---
 
