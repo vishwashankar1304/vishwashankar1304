@@ -11,7 +11,7 @@
 - 🌱 I'm learning **DevOps, System Design, and AWS Cloud**
 - 🛠️ Most used tech stack: `MERN`, `MongoDB`, `Express`, `React`, `Node.js`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishwa-s-552247259/) 
-li
+
 
 ---
 
