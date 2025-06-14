@@ -9,7 +9,7 @@
 
 - 💡 I'm currently working on a **E-Commerce for electronics shop**
 - 🌱 I'm learning **DevOps, System Design, and AWS Cloud**
-- 🛠️ Most used tech stack: `MERN`, `MongoDB`, `Express`, `React`, `Node.js`
+- 🛠️ Most used tech stack:  `MongoDB`, `Express`, `React`, `Node.js`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vishwa-s-552247259/) 
 
 
