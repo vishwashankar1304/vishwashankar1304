@@ -4,67 +4,57 @@
 ---
 
 ### 🚀 About Me  
-- 💡 Currently building: **E-Commerce platform for an electronics shop**  
-- 🌱 Learning: **DevOps, System Design, AWS Cloud**  
-- 💻 Focus: **Full-stack apps, API testing, automation**  
-- 📫 Connect: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
+- Currently building: **E-Commerce platform for an electronics shop**  
+- Learning: **DevOps, System Design, AWS Cloud**  
+- Passion: **Full-stack apps, API testing, automation**  
+- Connect: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
 
 ---
 
-### 🛠️ Languages & Frameworks  
+### 🛠️ Tech & Tools I Use  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="80" width="80" />
-</p>
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
 
----
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" width="70" />
 
-### 🗄️ Databases & Cloud  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="70" width="70" />
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="80" width="80" />
-</p>
+  <!-- Databases & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="70" width="70" />
 
----
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="70" width="70" />
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="70" width="70" />
 
-### 🧰 Tools  
+  <!-- Browsers -->
+  <img src="https://img.icons8.com/color/512/chrome.png" height="70" width="70" />
+  <img src="https://img.icons8.com/color/512/firefox.png" height="70" width="70" />
+  <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="70" width="70" />
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="80" width="80" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="80" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="80" width="80" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
-</p>
+  <!-- AI Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="70" width="70" />
+  <img src="https://seeklogo.com/images/P/perplexity-ai-logo-5D1B3D88C3-seeklogo.com.png" height="70" width="70" />
+  <img src="https://seeklogo.com/images/C/cursor-ai-logo-22C93E56DD-seeklogo.com.png" height="70" width="70" />
+  <img src="https://seeklogo.com/images/L/lovable-logo-6617E1C2F0-seeklogo.com.png" height="70" width="70" />
 
----
-
-### 🌐 Browsers & AI Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Mozilla%20Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Lovable-FF0080?style=for-the-badge&logo=heart&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Cursor%20AI-0A84FF?style=for-the-badge&logo=cursor&logoColor=white" height="40" />
 </p>
 
 ---
 
 ### 🎯 Fun Fact  
-*I enjoy building projects, testing APIs, and exploring AI tools to speed up development.*
-
----
+*I love building projects, exploring AI tools, and automating workflows to make development faster and smarter.*
