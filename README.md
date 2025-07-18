@@ -88,18 +88,18 @@
     <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="70" width="70" />
   </a>
 
-  <!-- AI Tools -->
+  <!-- AI Tools (fixed CDN links so logos work) -->
   <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="70" width="70" />
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="70" width="70" />
   </a>
   <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/P/perplexity-ai-logo-5D1B3D88C3-seeklogo.com.png" height="70" width="70" />
+    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/perplexity-logo/main/perplexity.png" height="70" width="70" />
   </a>
   <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/C/cursor-ai-logo-22C93E56DD-seeklogo.com.png" height="70" width="70" />
+    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/cursor-logo/main/cursor.png" height="70" width="70" />
   </a>
   <a href="https://lovable.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/L/lovable-logo-6617E1C2F0-seeklogo.com.png" height="70" width="70" />
+    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/lovable-logo/main/lovable.png" height="70" width="70" />
   </a>
 
 </p>
