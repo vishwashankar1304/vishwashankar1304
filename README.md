@@ -21,7 +21,7 @@
 
 ### 🛠️ Tech & Tools I Use  
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 35px; justify-content: center;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
 
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
