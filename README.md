@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech & Tools I Use  
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 35px; justify-content: center;">
 
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
@@ -45,10 +45,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" width="70" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="70" width="70" />
-  </a>
-
+  
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" width="70" />
