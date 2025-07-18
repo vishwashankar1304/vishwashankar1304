@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
 <h3 align="center">Full Stack Developer | API & Testing Enthusiast | DSA Learner</h3>
 
