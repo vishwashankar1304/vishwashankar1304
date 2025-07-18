@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
+  <img src="Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
 </p>
 
 
