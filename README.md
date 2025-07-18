@@ -16,89 +16,89 @@
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center;">
 
   <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" width="70" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" width="70" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" width="70" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" width="70" />
   </a>
 
   <!-- Frameworks -->
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70" />
   </a>
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" width="70" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" width="70" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="70" width="70" />
   </a>
 
   <!-- Databases & Cloud -->
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" width="70" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" width="70" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="70" width="70" />
   </a>
 
   <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" width="70" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" width="70" />
   </a>
-  <a href="https://unity.com/" target="_blank">
+  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="70" width="70" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="70" width="70" />
   </a>
 
   <!-- Browsers -->
-  <a href="https://www.google.com/chrome/" target="_blank">
+  <a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/512/chrome.png" height="70" width="70" />
   </a>
-  <a href="https://www.mozilla.org/firefox/" target="_blank">
+  <a href="https://www.mozilla.org/firefox/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/512/firefox.png" height="70" width="70" />
   </a>
-  <a href="https://www.microsoft.com/edge" target="_blank">
+  <a href="https://www.microsoft.com/edge" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="70" width="70" />
   </a>
 
   <!-- AI Tools -->
-  <a href="https://openai.com/chatgpt" target="_blank">
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="70" width="70" />
   </a>
-  <a href="https://www.perplexity.ai/" target="_blank">
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/P/perplexity-ai-logo-5D1B3D88C3-seeklogo.com.png" height="70" width="70" />
   </a>
-  <a href="https://cursor.sh/" target="_blank">
+  <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/C/cursor-ai-logo-22C93E56DD-seeklogo.com.png" height="70" width="70" />
   </a>
-  <a href="https://lovable.dev/" target="_blank">
+  <a href="https://lovable.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://seeklogo.com/images/L/lovable-logo-6617E1C2F0-seeklogo.com.png" height="70" width="70" />
   </a>
 
@@ -108,4 +108,3 @@
 
 ### 🎯 Fun Fact  
 *I love building projects, exploring AI tools, and automating workflows to make development faster and smarter.*
-
