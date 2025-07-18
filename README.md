@@ -4,10 +4,12 @@
 ---
 
 ### 🚀 About Me  
-- Currently building: **E-Commerce platform for an electronics shop**  
-- Learning: **DevOps, System Design, AWS Cloud**  
-- Passion: **Full-stack apps, API testing, automation**  
-- Connect: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
+- 🎓 Final-year Computer Science & Design student at **Kongu Engineering College**.  
+- 🔍 Passionate about **software testing, full-stack development, and AI-driven projects**.  
+- 🧠 Currently working on my **final year project**: an **AI-powered cervical cancer detection system** using Vision Transformer (ViT) and MedFormer with explainable AI (Grad-CAM).  
+- 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
+- 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
 
 ---
 
