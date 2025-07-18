@@ -49,15 +49,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="70" width="70" />
   </a>
 
-  <!-- Databases & Cloud -->
+  <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" width="70" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" width="70" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="70" width="70" />
   </a>
 
   <!-- Tools -->
@@ -73,9 +70,6 @@
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="70" width="70" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="70" width="70" />
-  </a>
 
   <!-- Browsers -->
   <a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">
@@ -86,20 +80,6 @@
   </a>
   <a href="https://www.microsoft.com/edge" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="70" width="70" />
-  </a>
-
-  <!-- AI Tools (fixed CDN links so logos work) -->
-  <a href="https://openai.com/chatgpt" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="70" width="70" />
-  </a>
-  <a href="https://www.perplexity.ai/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/perplexity-logo/main/perplexity.png" height="70" width="70" />
-  </a>
-  <a href="https://cursor.sh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/cursor-logo/main/cursor.png" height="70" width="70" />
-  </a>
-  <a href="https://lovable.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/vishwa-ai-assets/lovable-logo/main/lovable.png" height="70" width="70" />
   </a>
 
 </p>
