@@ -1,10 +1,12 @@
+<h1 align="center">Hey there! I'm Vishwa 👋</h1>
+
 <p align="center">
-  <img src="Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
+  Full Stack Developer and Testing Enthusiast from India, Dedicated to Building Reliable and Scalable Software  
 </p>
 
-<h1 align="center">Hi 👋, I'm Vishwa</h1>
-<h3 align="center">Full Stack Developer | API & Testing Enthusiast | DSA Learner</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwashankar1304&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 ---
 
 ### 🚀 About Me  
@@ -23,11 +25,7 @@
 
 ---
 
-### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishwashankar1304&label=Profile%20Views&color=0e75b6&style=flat)
-
----
 
 ### 🛠️ Tech & Tools I Use  
 
