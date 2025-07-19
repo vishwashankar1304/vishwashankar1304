@@ -93,12 +93,15 @@
 ### 🤝 Connect with Me  
 
 <p align="center">
+  <!-- Email -->
   <a href="mailto:vishwashankar1304@gmail.com">
     <img src="https://img.icons8.com/ios-filled/512/new-post.png" height="70" width="70" alt="Email"/>
   </a>
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/vishwa-s-552247259" target="_blank">
     <img src="https://img.icons8.com/color/512/linkedin.png" height="70" width="70" alt="LinkedIn"/>
   </a>
+  <!-- LeetCode -->
   <a href="https://leetcode.com/vishwashankar1304/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="70" width="70" alt="LeetCode"/>
   </a>
