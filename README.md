@@ -110,8 +110,8 @@
 
   <!-- Naukri -->
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="naukri_logo.webp" height="70" width="70" alt="Naukri"/>
-  </a>
+   <img src="naukri_logo.webp" alt="Naukri" height="70" width="70" style="object-fit: contain; background: white; border-radius: 10px;" />
+</a>
 </p>
 
 ---
