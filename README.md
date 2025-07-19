@@ -1,3 +1,7 @@
+<img src="Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
+
+
+
 <h1 align="center">Hey there! I'm Vishwa 👋</h1>
 
 <p align="center">
