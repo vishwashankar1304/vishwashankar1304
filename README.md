@@ -2,8 +2,6 @@
   <img src="Purple Watercolor Background Linkedin Background Photo.png" alt="Vishwa Banner" width="100%" />
 </p>
 
-
-
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
 <h3 align="center">Full Stack Developer | API & Testing Enthusiast | DSA Learner</h3>
 
@@ -12,17 +10,28 @@
 ### 🚀 About Me  
 - 🎓 Final-year Computer Science & Design student at **Kongu Engineering College**.  
 - 🔍 Passionate about **software testing, full-stack development, and AI-driven projects**.  
-- 🧠 Currently working on my **final year project**: an **AI-powered cervical cancer detection system** using Vision Transformer (ViT) and MedFormer with explainable AI (Grad-CAM).  
+- 🧠 Currently working on my **final year project**: an **AI-powered cervical cancer detection system** with explainable AI.  
 - 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
 
 ---
 
+### 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishwashankar1304?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
+### 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishwashankar1304&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
 ### 🛠️ Tech & Tools I Use  
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
-
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
@@ -86,7 +95,6 @@
   <a href="https://www.microsoft.com/edge" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="50" width="50" />
   </a>
-
 </p>
 
 ---
