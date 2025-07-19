@@ -94,13 +94,13 @@
 
 <p align="center">
   <a href="mailto:vishwashankar1304@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/512/new-post.png" height="50" width="50" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/512/new-post.png" height="70" width="70" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/vishwa-s-552247259" target="_blank">
-    <img src="https://img.icons8.com/color/512/linkedin.png" height="50" width="50" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/512/linkedin.png" height="70" width="70" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/vishwashankar1304/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50" width="50" alt="LeetCode"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="70" width="70" alt="LeetCode"/>
   </a>
 </p>
 
