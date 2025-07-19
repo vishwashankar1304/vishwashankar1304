@@ -106,7 +106,7 @@
 
   <!-- Naukri -->
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/512/external-job-recruitment-agency-flat-flat-juicy-fish.png" height="70" width="70" alt="Naukri"/>
+    <img src="https://img.icons8.com/color/512/find-matching-job.png" height="70" width="70" alt="Naukri"/>
   </a>
 </p>
 
