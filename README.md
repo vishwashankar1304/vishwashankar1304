@@ -19,11 +19,7 @@
 
 ---
 
-### 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vishwashankar1304?theme=dark&font=Roboto&ext=heatmap)
-
----
 
 
 
@@ -94,6 +90,12 @@
     <img src="https://img.icons8.com/color/512/ms-edge-new.png" height="50" width="50" />
   </a>
 </p>
+
+---
+
+### 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/vishwashankar1304?theme=dark&font=Roboto&ext=heatmap)
 
 ---
 
