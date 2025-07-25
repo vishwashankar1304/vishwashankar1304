@@ -127,4 +127,4 @@
 
 ### 🎯 Fun Fact  
 *I love building projects, exploring AI tools, and automating workflows to make development faster and smarter.*   
-i need to put my resume here    :   update and give me code
+
