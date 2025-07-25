@@ -20,37 +20,8 @@
 - 🧠 Currently working on my **final year project**: an **AI-powered cervical cancer detection system** with explainable AI.  
 - 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
- ---
----
-
-### 🤝 Connect with Me  
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/vishwa-s-552247259" target="_blank">
-    <img src="https://img.icons8.com/color/512/linkedin.png" height="70" width="70" alt="LinkedIn"/>
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/vishwashankar1304/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="70" width="70" alt="LeetCode"/>
-  </a>
-
-  <!-- Naukri -->
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-   <img src="naukri_logo.webp" alt="Naukri" height="70" width="70" style="object-fit: contain; background: white; border-radius: 10px;" />
-  </a>
-</p>
-
----
-
-### 📄 My Resume  
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-  </a>
-</p>
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
+- 📄 [My Resume](https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing) 
 
 ---
 
@@ -155,4 +126,5 @@
 ---
 
 ### 🎯 Fun Fact  
-*I love building projects, exploring AI tools, and automating workflows to make development faster and smarter.*
+*I love building projects, exploring AI tools, and automating workflows to make development faster and smarter.*   
+i need to put my resume here    :   update and give me code
