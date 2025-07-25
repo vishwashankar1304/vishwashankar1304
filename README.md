@@ -21,7 +21,7 @@
 - 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
-- 📄 [My Resume](https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing) 
+- 📄 My Resume Link : [VISHWA S](https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing) 
 
 ---
 
