@@ -21,6 +21,7 @@
 - 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
  ---
+---
 
 ### 🤝 Connect with Me  
 
@@ -46,8 +47,8 @@
 ### 📄 My Resume  
 
 <p align="center">
-  <a href="https://your-resume-link-here.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white](https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing)" alt="Download Resume"/>
+  <a href="https://drive.google.com/file/d/1UXPwS3ycv4sXt9ZBS4hSAZD-2LDtinbw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
 
