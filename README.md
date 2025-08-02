@@ -52,12 +52,8 @@
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" width="70" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" width="70" />
-  </a>
+ 
+  
   
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
