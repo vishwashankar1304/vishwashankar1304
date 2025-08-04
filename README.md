@@ -45,12 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" width="70" />
   </a>
 
-  <!-- Frameworks -->
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70" />
-  </a>
-
- 
+  
   
   
   <!-- Databases -->
