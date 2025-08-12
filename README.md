@@ -21,7 +21,7 @@
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
 - 🌐 **Portfolio:** [portfolio](https://vishwashankar-portfolio.netlify.app/)  
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)  
-- 📄 My Resume Link : [VISHWA S](https://drive.google.com/file/d/13N4QGuIQz7w5Caym26EhiMYxt8B1G8nt/view?usp=sharing)  
+- 📄 My Resume Link : [VISHWA S](https://drive.google.com/file/d/1fy-Hk68ijAyEQOM8cxlvKHanUxobbyXr/view?usp=sharing)  
 
 ---
 
