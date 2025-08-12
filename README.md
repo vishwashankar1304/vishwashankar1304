@@ -6,26 +6,22 @@
 <p align="center">
   Full Stack Developer and Testing Enthusiast from India  
 </p>
-<p align="center">
-  <a href="https://vishwashankar-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishwashankar1304&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
-
-### 🚀 About Me  
+### 🚀 About Me
 - 🎓 Final-year Computer Science & Design student at **Kongu Engineering College**.  
 - 🔍 Passionate about **software testing, full-stack development, and AI-driven projects**.  
 - 🧠 Currently working on my **final year project**: an **AI-powered cervical cancer detection system** with explainable AI.  
 - 💻 Skilled in **manual/API testing (Postman), Selenium basics, and core development tools** like React, Node.js, and MongoDB.  
 - 🤝 I enjoy **finding edge cases, improving product quality, and collaborating with developers** to build reliable, user-friendly software.  
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)
-- 📄 My Resume Link : [VISHWA S](https://drive.google.com/file/d/13N4QGuIQz7w5Caym26EhiMYxt8B1G8nt/view?usp=sharing) 
+- 🌐 **Portfolio:** [vishwashankar-portfolio.netlify.app](https://vishwashankar-portfolio.netlify.app/)  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/vishwa-s-552247259)  
+- 📄 My Resume Link : [VISHWA S](https://drive.google.com/file/d/13N4QGuIQz7w5Caym26EhiMYxt8B1G8nt/view?usp=sharing)  
 
 ---
 
