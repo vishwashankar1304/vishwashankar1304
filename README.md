@@ -3,9 +3,13 @@
 
 
 <h1 align="center">Hey there! I'm Vishwa 👋</h1>
-
 <p align="center">
-  Full Stack Developer and Testing Enthusiast from India, Dedicated to Building Reliable and Scalable Software  
+  Full Stack Developer and Testing Enthusiast from India  
+</p>
+<p align="center">
+  <a href="https://vishwashankar-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
+  </a>
 </p>
 
 <p align="center">
